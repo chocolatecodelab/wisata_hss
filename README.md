@@ -28,8 +28,9 @@ Buka proyek menggunakan IDE atau teks editor yang mendukung Flutter.
 
 3. Terakhir, jalankan aplikasi dengan perangkat emulator atau perangkat fisik yang telah dihubungkan:
 
-flutter run
-
+    ```bash
+    flutter run
+    ```
 
 Pastikan Anda telah menginstal Flutter SDK dan telah mengatur lingkungan pengembangan sebelum menjalankan aplikasi.
 
@@ -41,3 +42,4 @@ Buat branch baru: git checkout -b fitur_anda.
 Lakukan perubahan dan commit: git commit -m 'Menambahkan fitur yang baru'.
 Push ke branch Anda: git push origin fitur_anda.
 Submit permintaan tarik (pull request).
+        
